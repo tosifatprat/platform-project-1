@@ -1,0 +1,22 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: platform-project-1
+  description: A platform project
+  annotations:
+    backstage.io/managed-by-location: url:https://github.com/tosifatprat/platform-project-1
+    backstage.io/techdocs-ref: dir:.
+    github.com/project-slug: tosifatprat/platform-project-1
+  tags:
+  - java
+
+  links:
+  - url: https://admin.example-org.com
+    title: Admin Dashboard
+    icon: dashboard
+    type: admin-dashboard
+spec:
+  type: service
+  lifecycle: production
+  owner: platform-eng-group
+  system: platform-eng
