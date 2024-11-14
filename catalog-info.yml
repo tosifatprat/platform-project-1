@@ -4,7 +4,7 @@ metadata:
   name: platform-project-1
   description: A platform project
   annotations:
-    backstage.io/managed-by-location: url:https://github.com/tosifatprat/platform-project-1
+    backstage.io/managed-by-location: url:https://github.com/tosifatprat/platform-project-1/blob/main/catalog-info.yml
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: tosifatprat/platform-project-1
     jenkins.io/job-full-name: backstage-demo-pipeline
