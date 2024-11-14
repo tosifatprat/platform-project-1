@@ -7,6 +7,8 @@ metadata:
     backstage.io/managed-by-location: url:https://github.com/tosifatprat/platform-project-1
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: tosifatprat/platform-project-1
+    jenkins.io/job-full-name: backstage-demo-pipeline
+
   tags:
   - java
 
